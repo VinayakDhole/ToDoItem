@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dholevi\\Desktop\\CodeWithDragos\\ToDoItem\\TodoApi\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\dholevi\\Desktop\\ToDoItem\\TodoApi\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dholevi\\Desktop\\CodeWithDragos\\ToDoItem\\TodoApi\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\dholevi\\Desktop\\ToDoItem\\TodoApi\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dholevi\\Desktop\\CodeWithDragos\\ToDoItem\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\dholevi\\Desktop\\ToDoItem\\TodoApi\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\dholevi\\Desktop\\CodeWithDragos\\ToDoItem\\TodoApi\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\dholevi\\Desktop\\ToDoItem\\TodoApi\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\dholevi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dholevi\\Desktop\\CodeWithDragos\\ToDoItem\\TodoApi\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\dholevi\\Desktop\\ToDoItem\\TodoApi\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -69,7 +69,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.1.4, )"
             }
           },
           "imports": [
